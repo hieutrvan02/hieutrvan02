@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hieutrvan&label=Profile%20views&color=0e75b6&style=flat" alt="hieutrvan" /> </p>
 
-- 🌱 I’m currently learning **C# & .NET**
+- 🌱 I’m currently learning **Java Spring**
 
 - 💬 Ask me about **Java, HTML5, CSS3**
 
